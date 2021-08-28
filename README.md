@@ -1,1 +1,3 @@
-# dse102-hw1
+- George Vergara
+- ggpvv
+- gvergar00@citymail.cuny.edu
